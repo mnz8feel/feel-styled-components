@@ -1,1 +1,5 @@
 styled-components
+
+react
+
+vite
